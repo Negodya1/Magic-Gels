@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "magicgels:item/gel_overlay",
+        "layer1": "magicgels:item/gel"
+    }
+}

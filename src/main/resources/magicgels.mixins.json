@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "priority": 1100,
+  "package": "com.negodya1.magicgels.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "magicgels.refmap.json",
+  "mixins": [
+	"ItemMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
